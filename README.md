@@ -1,2 +1,2 @@
-# CineBook
-Cinema Ticket Reservation System using Python, Tkinter and SQLite
+# Daily_Zikr
+Zikr Tracking System using Python, Tkinter and SQLite
