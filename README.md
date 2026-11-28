@@ -1,2 +1,2 @@
 # Daily_Zikr
-Zikr Tracking System using Python, Tkinter and SQLite
+Zikr Tracking System using Python, Tkinter and SQLite3
